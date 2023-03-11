@@ -1,0 +1,7 @@
+#Datos crédito 1
+cédula: 543
+año amortización: 2
+
+#Datos crédito 2
+cédula: 123
+año amortización: 1

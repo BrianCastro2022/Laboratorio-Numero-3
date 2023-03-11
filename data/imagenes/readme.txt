@@ -1,0 +1,1 @@
+La imagen de los billetes fue extraída de: www.economiafinanzas.com

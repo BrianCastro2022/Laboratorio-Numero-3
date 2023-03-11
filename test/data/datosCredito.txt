@@ -1,0 +1,3 @@
+#Datos crédito
+cédula: 54321
+año amortización: 1
